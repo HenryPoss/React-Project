@@ -2,6 +2,10 @@
     margin-left: 200px;
 }
 
+.disbaled-button {
+    background-color: grey;
+}
+
 /* Reset some default styles */
 body, h1, ul {
     margin: 0;
